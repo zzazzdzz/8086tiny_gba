@@ -6,7 +6,7 @@ This was a silly toy project, and it's not something I intend to actively mainta
 
 # Why?
 
-¯\\_(ツ)_/¯
+¯\\_(ツ)\_/¯
 
 # Want to try it out?
 
