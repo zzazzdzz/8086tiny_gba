@@ -2,6 +2,12 @@
 
 [8086tiny](https://github.com/adriancable/8086tiny), but it runs on the GBA. It can run inside a Pokémon Emerald save file too.
 
+This was a silly toy project, and it's not something I intend to actively maintain. 
+
+# Why?
+
+¯\_(ツ)_/¯
+
 # Want to try it out?
 
 Precompiled GBA ROMs, as well as the Pokémon Emerald save file, are available under *bin/*. 
