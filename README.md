@@ -2,7 +2,7 @@
 
 [8086tiny](https://github.com/adriancable/8086tiny), but it runs on the GBA. It can run inside a Pokémon Emerald save file too.
 
-This was a silly toy project, and it's not something I intend to actively maintain. 
+This was a silly toy project I made for [a silly YouTube video](https://www.youtube.com/watch?v=nEwmYOZ-xME), and it's not something I intend to actively maintain. 
 
 # Why?
 
